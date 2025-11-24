@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on: **Ambitious projects that require a first-principles approach to user experience and a clean architectural foundation. I'm drawn to complex problems that demand elegant, simple solutions.**
 
-- 👨‍💻 See the philosophy in action at:**https://studio-aether.vercel.app/**
+- 👨‍💻 See the philosophy in action at: **https://studio-aether.vercel.app/**
 
 - 💬 Ask me about **The process of translating a vague vision into a buildable product, architecting user experiences with GSAP, and leveraging AI tools to accelerate development.**
 
